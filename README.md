@@ -1,11 +1,11 @@
 ### MultifokalHirn's GitHub Profile 👋
 
-Born and raised in Berlin, working with the great people of [Signatrix](https://www.textlog.de/32272.html).
+Hi, I am Lennard! I was born in Berlin and still live here _to this day_, working with the great people at [Signatrix](https://www.signatrix.com).
 
-💻 I’m currently working on Signatrix projects and my own little [superstructure](https://github.com/MultifokalHirn/superstructure)
-🌱 I’m currently thinking about how to design my new apartment and working on getting better at music production
+💻 During Covid, I worked on my own little dialectics tool called [superstructure](https://github.com/MultifokalHirn/superstructure), but for lack of collaborators I have halted work.
+🌱 I’m currently hosting my own podcast and produce a ton of music, feel free to ask me about it!
 🤔 I’m getting into the question of how to be a good tech lead
-💬 Ask me about Hegel
+💬 After a while, most dicussions I have will end up with me declaring that again Hegel was right all along.
 
 
 🌎 Languages 🌎
