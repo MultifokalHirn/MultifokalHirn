@@ -2,8 +2,6 @@
 
 Hi, my name is Lennard, nice to see you hve stumbled upon my little Github Profile.
 
-[![MultifokalHirn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MultifokalHirn&count_private=true&show_icons=false&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 
 ## About Me
 
