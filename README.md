@@ -1,34 +1,15 @@
-# MultifokalHirn's Github Profile 👋
+# MultifokalHirn
 
-Hi, my name is Lennard, nice to see you hve stumbled upon my little Github Profile.
+`under construction`
 
+Hi, my name is [Lennard Wolf](https://www.linkedin.com/in/lennardwolf/) and I am a Software Engineer from Berlin, currently working as Tech Lead at [*Signatrix*](https://www.signatrix.com).
 
-## About Me
+After receiving my B.Sc in *IT System Engineering* from [Hasso Plattner Institute](https://hpi.de), I was went on to study *Philosophy* at [Humboldt University](https://www.hu-berlin.de/de).
+During those studies I met one of the founders of a (back then) very early stage computer vision startup named Signatrix, which I joined as the first non-founding Software Engineer half a year later.
 
-- 👍 I am working as a Tech Lead over at [*Signatrix*](https://www.signatrix.com)
+### Preferred Languages
+[![Programming](https://skillicons.dev/icons?i=py,js&perline=6)](https://skillicons.dev)
 
-- 🎓 I studied **IT System Engineering** at [*Hasso Plattner Institute*](https://hpi.de) (Potsdam) and **Philosophy** at [*Humboldt University*](https://www.hu-berlin.de/de) (Berlin)
-
-- 🐻 I was born in Berlin and have lived there ever since
-
-
-### Fun Facts
-
-- 💬 After a while, most dicussions I have will end up with me declaring that again Hegel was right all along
-
-- 💻 During Covid, I worked on my own little dialectics tool called [superstructure](https://github.com/MultifokalHirn/superstructure), but for lack of collaborators I have halted work
-
-- 🌱 I love producing music, creating visual art (when I find the time), and have my own (secret) little podcast too - feel free to ask me about it!
-
-
-
-### 🌎 Languages 🌎
-
-- 🇩🇪 **German**: Native
-
-- 🇺🇸 **English**: Fluent
-
-- 🇫🇷 **French**: Can follow conversations, difficulty speaking fluently
-
-- 🇯🇵 **Japanese**: Basic conversation (20ECTS in Jap. language course in University)
+### Preferred Tools
+[![Preferred Tools](https://skillicons.dev/icons?i=vscode,git,githubactions,md,docker,ansible&perline=6)](https://skillicons.dev)
 
