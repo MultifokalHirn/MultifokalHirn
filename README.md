@@ -1,19 +1,23 @@
 # MultifokalHirn
 
 
- <img align="right" style="width: 250px" src="https://multifokalhirn.github.io/assets/images/author.jpeg" alt="author">
+Hi, my name is Lennard Wolf and I am a Software Engineer living and working in Berlin.
 
-Hi, my name is Lennard Wolf and I am a Software Engineer living and working in Berlin. 
+<img align="right" style="width: 200px" src="https://multifokalhirn.github.io/assets/images/author.jpeg" alt="author">
+
 I am Tech Lead at [*Signatrix*](https://www.signatrix.com) where develop software and devOps infrastructure using Python, Flask, React.js, Docker, Ansible and many more.
 
-For more info, feel free to check out my
+
+
 - [CV](https://multifokalhirn.github.io/resume)
 - [LinkedIn](https://www.linkedin.com/in/lennardwolf/)
 - [Homepage](https://multifokalhirn.github.io)
 
+<br />
+
 Here on Github you can check out my
 - [.dotfiles](https://github.com/MultifokalHirn/.dotfiles)
-- [Python Project Template](https://github.com/MultifokalHirn/python_template_repo) for Python development
+- [Python Project Template](https://github.com/MultifokalHirn/python_template_repo)
 
 <br />
 <br />
