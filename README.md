@@ -14,9 +14,12 @@ I am Tech Lead at [*Signatrix*](https://www.signatrix.com) where I develop softw
 
 <br />
 
-Here on Github you can check out my
-- [.dotfiles](https://github.com/MultifokalHirn/.dotfiles)
+Here on Github you can check out my public repos, for example:
+- [`.dotfiles`](https://github.com/MultifokalHirn/.dotfiles)
 - [Python Project Template](https://github.com/MultifokalHirn/python_template_repo)
+- 🏗️ [`ornaments`](https://github.com/MultifokalHirn/ornaments) (python `@decorator` library)
+- 🏗️ [Tools I use](https://github.com/MultifokalHirn/tools) 
+
 
 <br />
 <br />
