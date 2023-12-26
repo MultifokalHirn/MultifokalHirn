@@ -8,6 +8,7 @@ Hi, my name is Lennard Wolf and I am a Software Engineer living and working in B
 I am Tech Lead at [*Signatrix*](https://www.signatrix.com) where I develop software and DevOps infrastructure using Python, Docker, Ansible, Flask, React.js, and many, many other technologies.
 
 
+- [about.me](https://about.me/lennardwolf)
 - [CV](https://multifokalhirn.github.io/resume)
 - [LinkedIn](https://www.linkedin.com/in/lennardwolf/)
 - [Homepage](https://multifokalhirn.github.io)
