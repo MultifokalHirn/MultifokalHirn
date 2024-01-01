@@ -19,7 +19,8 @@ Here on Github you can check out my public repos, for example:
 - [`.dotfiles`](https://github.com/MultifokalHirn/.dotfiles)
 - [Python Project Template](https://github.com/MultifokalHirn/python_template_repo)
 - 🏗️ [`ornaments`](https://github.com/MultifokalHirn/ornaments) (python `@decorator` library)
-- 🏗️ [Tools I use](https://github.com/MultifokalHirn/tools) 
+- 🏗️ [Tools I use](https://github.com/MultifokalHirn/tools)
+- 🏗️ [Books, Talks, etc. that I like](https://github.com/MultifokalHirn/resources)
 
 
 <br />
