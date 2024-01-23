@@ -17,11 +17,12 @@ I am Tech Lead at [*Signatrix*](https://www.signatrix.com) where I develop softw
 
 Here on Github you can check out my public repos, for example:
 - ⚫ [`.dotfiles`](https://github.com/MultifokalHirn/.dotfiles)
-- 🛠️ (🏗️) [Tools I use](https://github.com/MultifokalHirn/tools)
-- 📚 (🏗️) [Books, Talks, etc. that I like](https://github.com/MultifokalHirn/resources)
-- 🔥 (🏗️) [Python Packages](https://github.com/MultifokalHirn/awesome-python-packages)
-- 📦 (🏗️) [`ornaments`](https://github.com/MultifokalHirn/ornaments) (python `@decorator` library)
 - 🐍 [Python Project Template](https://github.com/MultifokalHirn/python_template_repo)
+- 🛠️ (🏗️) [Recommended Tools](https://github.com/MultifokalHirn/tools)
+- 📚 (🏗️) [Recommended Books, Talks, etc.](https://github.com/MultifokalHirn/resources)
+- 🔥 (🏗️) [Awesome Python Packages](https://github.com/MultifokalHirn/awesome-python-packages)
+- 📦 (🏗️) [`ornaments`](https://github.com/MultifokalHirn/ornaments) (python `@decorator` library)
+- 🤯 (🪦) [`superstructure`](https://github.com/MultifokalHirn/superstructure) (old project in which I attempted to create a note taking app based on dialectic thinking - its definitely a wild codebase to explore..) 
 
 <br />
 <br />
