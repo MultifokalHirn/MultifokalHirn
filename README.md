@@ -5,7 +5,7 @@ Hi, my name is Lennard Wolf and I am a Software Engineer living and working in B
 
 <!-- <img align="right" style="width: 200px" src="https://multifokalhirn.github.io/assets/images/author.jpeg" alt="author">  -->
 
-I am Tech Lead at [*Signatrix*](https://www.signatrix.com) where I develop software and DevOps infrastructure using Python, Docker, Ansible, Flask, React.js, and many, many other technologies.
+I have more than 6 years of experience building software and devOps infrastructure using Typescript, Python, Docker, Ansible, Svelte, React.js, and many, many other technologies. I am currently working as a consultant at [amiconsult](https://amiconsult.de).
 
 
 - [about.me](https://about.me/lennardwolf)
