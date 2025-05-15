@@ -5,7 +5,7 @@ Hi, my name is Lennard Wolf and I am a Software Engineer living and working in B
 
 <!-- <img align="right" style="width: 200px" src="https://multifokalhirn.github.io/assets/images/author.jpeg" alt="author">  -->
 
-I have more than 6 years of experience building software and infrastructure using a wide range of technologies.
+I have more than 7 years of professional experience building software and infrastructure using a wide range of technologies.
 <br />
 
 [![Langs and Frameworks](https://skillicons.dev/icons?i=python,js,ts,svelte,ruby,go,bash,html,css,tailwind&perline=10)](https://skillicons.dev)
